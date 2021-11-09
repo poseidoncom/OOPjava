@@ -6,6 +6,14 @@ public class Huone {
 	private String tunnus;
 	private String kuvaus;
 	
+	
+	
+	public Huone(String tunnus, String kuvaus) {
+		super();
+		this.tunnus = tunnus;
+		this.kuvaus = kuvaus;
+	}
+
 	public void kysyTiedot() {
 		Scanner sc = new Scanner(System.in);
 		tunnus = sc.nextLine();
