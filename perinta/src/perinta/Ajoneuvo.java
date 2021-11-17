@@ -1,3 +1,4 @@
+//kommentti
 package perinta;
 
 public class Ajoneuvo {

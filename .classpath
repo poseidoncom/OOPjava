@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="harjoitus5/src"/>
+	<classpathentry kind="src" path="perinta/src"/>
+	<classpathentry kind="output" path="harjoitus5/bin"/>
+</classpath>
